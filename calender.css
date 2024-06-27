@@ -1,0 +1,112 @@
+h1{
+    text-align: center;
+
+}
+.Sun{
+     margin-left: 70px;
+    text-shadow: 2px 2px 2px rgb(236, 232, 232);
+    font-family:sans-serif ;
+}
+h2{
+    display:inline-block;
+    margin-left: 98px;
+    text-shadow: 2px 2px 2px rgb(243, 237, 237);
+    font-family:sans-serif ;
+
+}
+.holiday{
+    color: white;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px black;
+    font-family:sans-serif ;
+}
+#maha{
+    display: inline-block;
+    text-shadow: 2px 2px 2px rgb(211, 12, 12);
+    font-family:sans-serif ;
+    margin-left: 70px;
+}
+#Shadat{
+    display: inline-block;
+    text-shadow: 2px 2px 2px rgb(211, 12, 12);
+    font-family:sans-serif ;
+    margin-left: 50px;
+
+}
+
+ 
+body{
+    background-color: rgb(197, 211, 197);
+}
+
+.first{ display: inline-block;
+    background-color: rgb(201, 235, 11);
+    padding: 30px ;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px black;
+    font-family:sans-serif ;
+    border-radius: 10px;
+    color: white;
+    margin-left: 765px;
+}
+.second{ display: inline-block;
+    background-color: red;
+    padding: 30px ;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px black;
+    font-family:sans-serif ;
+    border-radius: 10px;
+    color: white;
+    margin-left: 45px;
+
+}
+.third{ display: inline-block;
+    background-color: red;
+    padding: 30px ;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px black;
+    font-family:sans-serif ;
+    border-radius: 10px;
+    color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.four{
+    display: inline-block;
+    background-color: rgb(223, 238, 9);
+    padding: 30px ;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px black;
+    font-family:sans-serif ;
+    border-radius: 10px;
+    color: white;
+    margin-left: 45px;
+    margin-top: 10px;
+    
+    
+}
+.eight{
+    display: inline-block;
+    background-color: rgb(228, 153, 15);
+    padding: 30px ;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px black;
+    font-family:sans-serif ;
+    border-radius: 10px;
+    color: white;
+    margin-left: 45px;
+    margin-top: 10px;
+    
+    
+}
+.ten{ display: inline-block;
+    background-color: rgb(228, 153, 15);
+    padding: 30px ;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px black;
+    font-family:sans-serif ;
+    border-radius: 10px;
+    color: white;
+    margin-left: 50px;
+    margin-top: 15px;
+}
